@@ -1,4 +1,5 @@
-# Codecademy-TeaCozy
+# Codecademy- Tea Cozy Project
+
 This is a practice project for Codecademy. In this project, I was told to copy a design spec to create the same webpage as shown in the image bellow.
 
 

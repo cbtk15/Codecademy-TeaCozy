@@ -96,7 +96,7 @@ main{
 
 .hero-section {
     height: 700px;
-    background-image: url(./resources/images/img-mission-background.jpg);
+    background-image: url("./resources/images/img-mission-background.jpg");
     background-position: 50%;
     background-repeat: no-repeat;
     display: flex;
@@ -174,7 +174,7 @@ main{
 /* Locations section */
 
 .location-section {
-    background-image: url(./resources/images/img-locations-background.jpg);
+    background-image: url("./resources/images/img-locations-background.jpg");
     background-position: 50% 24%;
     background-repeat: no-repeat;
     min-height: 500px;
